@@ -1,1 +1,1 @@
-Muscle Atrophy Detection using Machine Learning
+# Muscle Atrophy Detection using Machine Learning
